@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//For N.20, factorials cant be stored in 64 bit integers
+//For N>20, factorials cant be stored in 64 bit integers
 //Create array of 500 or so size
 //Store every digit of a number in a different index of the array
 //At every step, calculate k*a[index]
